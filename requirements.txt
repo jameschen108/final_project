@@ -1,0 +1,6 @@
+flask
+streamlit
+pandas
+requests
+pyodbc
+python-dotenv
