@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import pandas as pd
 
-API_BASE = "http://localhost:8000"  # 若部署到雲端請改為實際 API 網址
+API_BASE = "https://web-apps.orangetree-cce831db.eastus2.azurecontainerapps.io"
 
 st.set_page_config(page_title="MLB 球員資料查詢", layout="wide")
 st.title("⚾ MLB 球員成績總覽")
